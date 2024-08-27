@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "amount": 1,
+    "slotnum": 8
+  },
+  {
+    "ID": 0,
+    "amount": 1,
+    "slotnum": 10
+  },
+  {
+    "ID": 3,
+    "amount": 1,
+    "slotnum": 21
+  },
+  {
+    "ID": 2,
+    "amount": 1,
+    "slotnum": 22
+  }
+]
